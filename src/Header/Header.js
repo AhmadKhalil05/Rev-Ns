@@ -6,7 +6,7 @@ const Header = () => {
     <div className="header-container">
       <div className="header-content">
         <h1>Natural <br /> Store</h1>
-        <p>This is a template landing page, created with Figma and Anima. No coding involved.</p>
+        <p>This is a natural products store, offering organic items without any artificial additives. Shop here for your healthy lifestyle needs.</p>
         <div className="buttons">
           <button className="primary">Primary</button>
           <button className="cta">CTA</button>
